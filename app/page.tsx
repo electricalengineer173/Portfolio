@@ -9,8 +9,8 @@ import Contact from "@/components/contact"
 import AnimatedBackground from "@/components/animated-background"
 
 export const metadata: Metadata = {
-  title: "Mariyam | Backend Developer",
-  description: "Backend-focused developer with expertise in FastAPI, Django, and database management",
+  title: "Mariyam dev | Eng X Dev",
+  description: "Streamlining Engineering Workflows with Tailored Solutions Backend-focused developer with Intuitive expertise in front end.",
 }
 
 export default function Home() {
