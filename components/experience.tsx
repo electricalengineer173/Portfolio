@@ -51,7 +51,7 @@ const Experience = () => {
     {
       title: "WordPress Intern",
       company: "Institute Arqam",
-      period: "10/07/2019 - 31/08/2019",
+      period: "1/06/2020 - 31/08/2020",
       location: "Faisalabad, Pakistan",
       description: [
         "Assisted in the development and customization of WordPress themes and plugins under the guidance of senior developers.",
