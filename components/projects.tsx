@@ -26,15 +26,15 @@ const Projects = () => {
     {
       title: "Network Automated Optimization Intelligent Platform",
       description:
-        "End-to-End Digital Technologies Intelligent Capacity and Management Planning Platform.",
+        "End-to-End Digital Technologies Intelligent Capacity and Management Planning Platform.Revolutionize decision-making in 4G High Utilized Cells.Provide decisive insights for determining if a solution is necessary and, if so, recommend the optimal solution.",
       image: "/planing.png",
-      tags: ["FastAPI", "Microsoft Access", "React"],
+      tags: ["FastAPI", "Microsoft Access Database", "React"],
       github: "#",
       demo: "/videos/network-automated-optimization-inteligent-platform.mp4",
     },
     {
       title: "Industrial Automated Solution",
-      description: "Manhour Reduction based on Industrial Complex Workflow.",
+      description: "Manhour Reduction based on Industrial Engineering Complex Workflow.",
       image: "/gas.png",
       tags: ["FastAPI", "Next.js", "PostgreSQL"],
       github: "#",
@@ -43,7 +43,7 @@ const Projects = () => {
     {
       title: "Engineering E2E Database Management",
       description:
-        "AI-powered document classification system using deep learning architectures like CNNs and LSTMs for automatic categorization.",
+        "E2E RAN Engineering Data Access on single click for Entire Nationwide Departments with the focuse of automation",
       image: "/ran.png?height=300&width=500",
       tags: ["Django", "AWS-S3", "Docker"],
       github: "#",
