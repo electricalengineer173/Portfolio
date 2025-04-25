@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 
 const Hero = () => {
   const [typedText, setTypedText] = useState("")
-  const fullText = "Backend Developer | Python ~ FastAPI | Django | Next.js"
+  const fullText = "Python Developer ~ FastAPI | Django X Next.js"
 
   useEffect(() => {
     let currentIndex = 0
