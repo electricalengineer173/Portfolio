@@ -34,7 +34,7 @@ const Projects = () => {
     },
     {
       title: "Industrial Automated Solution",
-      description: "Manhour Reduction based on Industrial Engineering Complex Workflow.",
+      description: "Engineered a web app that performs precise thermodynamic calculations. It enables fast, expert-free case analysis, reducing manual effort and improving accessibility.",
       image: "/gas.png",
       tags: ["FastAPI", "Next.js", "PostgreSQL"],
       github: "#",
