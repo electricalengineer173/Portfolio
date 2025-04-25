@@ -43,7 +43,7 @@ const Projects = () => {
     {
       title: "Engineering E2E Database Management",
       description:
-        "E2E RAN Engineering Data Access on single click for Entire Nationwide Departments with the focuse of automation",
+        "Data Access on single click for Entire RAN Engineering Department with the focuse of automation.",
       image: "/ran.png?height=300&width=500",
       tags: ["Django", "AWS-S3", "Docker"],
       github: "#",
