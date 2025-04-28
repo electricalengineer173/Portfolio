@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 
 const Hero = () => {
   const [typedText, setTypedText] = useState("")
-  const fullText = "Python Developer ~ FastAPI | Django X Next.js"
+  const fullText = "Python Developer ~ FastAPI | Next.js"
 
   useEffect(() => {
     let currentIndex = 0
@@ -45,7 +45,7 @@ const Hero = () => {
           </h2>
 
           <p className="text-lg text-gray-300 mb-10 max-w-2xl mx-auto">
-            A backend-focused developer with expertise in building scalable APIs and database management. Passionate
+            A backend-focused Engr X A.I developer with expertise in building scalable APIs and database management. Passionate
             about research, innovation, and creating efficient, real-world solutions.
           </p>
 
