@@ -10,7 +10,7 @@ import AnimatedBackground from "@/components/animated-background"
 
 export const metadata: Metadata = {
   title: "Mariyam dev | Engr. X Dev",
-  description: "Streamlining Engineering Workflows with Tailored Solutions Backend X A.I-focused developer with Intuitive expertise in front end.",
+  description: "Streamlining Engineering Workflows with Tailored Solutions &  Backend X A.I-focused developer with Intuitive expertise in front end.",
 }
 
 export default function Home() {
