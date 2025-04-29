@@ -56,7 +56,7 @@ const Projects = () => {
       image: "/tutor.png",
       tags: ["Nextjs", "Neon","Git","vercel"],
       github: "#",
-      demo: "https://kzmgom4stdvzcpf9burb.lite.vusercontent.net/", // opens in modal
+      demo: "https://toutor-finder.vercel.app/", // opens in modal
     },
     {
       title: "Vehicle Tracking System",
